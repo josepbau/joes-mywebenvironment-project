@@ -16,7 +16,7 @@ I built this website to give Hot Rod enthusiasts and owners some insight for cer
 
 
 ## 3. What Tools Did I Use?
-I decided to use Canva to help assist me with the crerative workflow and design process.  Although this creative process was very user frioendly I did manage to hit some roadblocks in my design process due to the limitations of the Canva tools. Certain color shadesor fonts were not available, as well as some interactive features. Since I do not have a certain tier for the platform it is very limiting on what features they offer.  Chat GPT and Claude were cery helpful on assistin gme with finding some alternate tools to include in my website to fulfill the feature request I was looking for which turned out to be some solid workarounds.
+I decided to use Canva to help assist me with the creative workflow and design process.  Although this creative process was very user friendly I did manage to hit some roadblocks in my design process due to the limitations of the Canva tools. Certain color shades or fonts were not available, as well as some interactive features. Since I do not pay for a certain tier of the platform, it is very limiting on what features they offer.  Chat GPT and Claude were very helpful on assisting me with finding some alternate tools to include in my website to fulfill the feature request I was looking for which turned out to be some solid workarounds.
 
 
 ## How to Visit
