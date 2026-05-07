@@ -20,4 +20,4 @@ I decided to use Canva to help assist me with the creative workflow and design p
 
 
 ## How to Visit
-To view my website please visit cruisintexas.com 
+To view my website please visit [cruisintexas.com](http://cruisintexas.com)
