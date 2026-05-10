@@ -15,7 +15,7 @@ The features I'm most proud of are the reviews and show submission forms on my S
 
 If I could change one thing, it would be my choice of design platform. I went with Canva expecting it to have everything I needed, and while it's a solid tool, I ended up having to look elsewhere to fill in the gaps. That wasn't something I anticipated. That said, it was a worthwhile experience, I walked away more familiar with Canva and with a better sense of how to problem-solve when a tool doesn't do exactly what you need it to.
 
-## Key Takeaways
+## What You Learned
 
 The biggest takeaway from this whole process was how much you learn through iteration. Testing your design with real people, users who have no idea what your intentions were is invaluable. Peer feedback has a way of revealing blind spots you'd never catch on your own. Sometimes what makes perfect sense to the creator doesn't land the same way for the user, and having someone point that out is exactly the kind of feedback that makes the final product better. I measured my success by how naturally visitors moved through the page and by how few questions I got about where things were or what they did. The fact that there weren't many questions told me the design did its job.
 
